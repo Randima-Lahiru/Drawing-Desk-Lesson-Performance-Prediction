@@ -1,0 +1,2 @@
+Assignment Model,Best Validation Model,Test MAE,Test RMSE,Test R2
+Extra Trees (New Algorithm),Gradient Boosting,920.1060730593607,1141.9762326380517,0.32499572792768194

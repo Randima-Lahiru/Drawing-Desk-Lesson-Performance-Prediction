@@ -1,0 +1,134 @@
+Feature,Mean_Absolute_SHAP
+homepage_featured,268.6384277118976
+is_trending_style,265.0709227505466
+is_run_marketing_campaign,187.38313321792813
+is_run_social_media_campaign,134.7613134093598
+same_category_lessons_last_30d,126.23776716474954
+is_beginner_friendly,110.04389753686668
+Season_Q3,106.90215168381526
+featured_position,96.61484757066954
+category_Languages,91.34744981163034
+featured_days_count,89.87936533031412
+art_style_Illustration / Drawing,84.72772261386318
+is_send_push_notification,77.57693264364018
+promotion_country_United States,76.21471682085426
+category_order,73.4324477737027
+in_app_banner_used,68.54748556803878
+campaign_type_Paid Social,55.462563344187274
+subject_type_Object / General,55.13931512150121
+similar_lessons_count,48.1531493572402
+subject_type_Person / Character,46.81204631728839
+art_style_Kawaii / Cartoon,46.356842880078815
+category_Kawaii,44.93233836883475
+publish_weekday_Monday,40.34944164323498
+course_lesson_count,39.90937095932169
+art_style_Anime / Manga,38.45227191667661
+category_featured,35.4449455719415
+category_Manga & Anime,31.741968457220448
+thumbnail_has_character,27.312769835618383
+Season_Q1,26.967199638936208
+has_voice_guidance,26.871095188940654
+course_order_index,25.48195325128284
+idea_source_Popular Character,23.05595057856155
+publish_month,20.57437702735558
+step_count,19.00077594649757
+campaign_duration_days,18.84320562503328
+estimated_duration_minutes,18.584198019802102
+publish_hour,18.57975106808856
+campaign_start_offset_days,18.489164390591302
+publish_weekday_Friday,17.612575161582836
+lesson_complexity_score,16.96488718604054
+campaign_type_Multi-channel,16.830520598028208
+publish_weekday_Saturday,16.01760367590479
+publish_weekday_Tuesday,14.19351017567892
+Season_Q4,14.076841651518226
+idea_source_Social Media Trend,13.809055530500201
+is_run_email_campaign,13.0940578966331
+promotion_country_Europe,12.23924302086791
+lesson_position_in_course,12.065378400574016
+target_age_group_7-17,10.997891914515701
+has_reference_image,9.094162277022756
+target_audience_All Users,9.05442389087944
+target_audience_Teen 13+,8.838592544968469
+difficulty_Beginner,8.77863474460895
+target_audience_Adult,8.377289825162684
+is_seasonal,8.299763700159051
+thumbnail_has_text,8.2789871694746
+publish_weekday_Thursday,8.136208625375817
+days_since_previous_similar_lesson,7.84152116765919
+target_age_group_25-34,7.494999267313572
+promotion_country_Australia,7.267294477643818
+publish_weekday_Wednesday,6.945796313325932
+lesson_thumbnail_style_Step Preview,6.879396784231085
+lesson_list_position,6.4606859414303885
+idea_source_Seasonal Event,6.408364755196985
+target_age_group_18-24,6.152095301919017
+category_Seasonal Celebration,6.097820760297766
+target_age_group_35-44,6.036462871319345
+target_event_Christmas,5.7709192642614475
+category_Fun Drawing Tricks,5.661739382045296
+subject_type_Fantasy,5.63821980606025
+difficulty_Advanced,5.585530003881524
+lesson_thumbnail_style_Close-up Character,5.386371036514001
+idea_source_Upcoming Movie,5.329576185397274
+same_event_lessons_last_30d,5.189763665314739
+difficulty_Intermediate,5.058684728374288
+target_age_group_45+,5.039158147767977
+target_audience_Beginners,4.866971347453776
+campaign_type_Seasonal Campaign,4.6558797432899
+promotion_country_United Kingdom,4.63882608702255
+subject_type_Festival / Event,4.579464579022363
+lesson_thumbnail_style_Minimal,4.439696377801831
+category_Tattoos,4.409982742073152
+campaign_type_Push Focused,4.255266327636063
+campaign_type_Organic Social,4.110077943547262
+lesson_thumbnail_style_Clean Illustration,3.966252387789666
+lesson_thumbnail_style_Bold Background,3.9000043224431726
+idea_source_Past Popular Lesson,3.8844246510140525
+promotion_country_India,3.787363061124285
+target_audience_Free Users,3.422739117142634
+target_event_Thanksgiving,3.2642804311488933
+is_free,3.252053375896464
+days_before_event,3.0309979039106545
+lesson_thumbnail_style_Finished Artwork,3.0026077019017423
+Season_Q2,2.9574742280232686
+promotion_country_Sri Lanka,2.8049071183077467
+promotion_country_Canada,2.761039361762059
+category_Doodle,2.6257321640265783
+idea_source_Search Trend,2.5972295971976918
+idea_source_User Request,2.542345303580858
+subject_type_Animal,2.4862687600966007
+art_style_Tattoo / Line Art,2.399105034474417
+target_event_Valentine's Day,2.2203119645327596
+subject_type_Vehicle,2.172381588290202
+art_style_Doodle,2.139623274694506
+target_audience_Returning Users,2.0731449695579767
+target_event_Halloween,1.934579859792184
+idea_source_Market Research,1.8650778261435272
+is_kids_focused,1.8324487270126455
+promotion_country_Global,1.7835938560738942
+category_Countries,1.6329084359432813
+category_Mecha Robots,1.368499188042653
+subject_type_Food,1.201555293193312
+idea_source_Original Internal Idea,1.147020970081658
+subject_type_Nature,1.1394708631259933
+category_Dogs,1.1147782016465386
+target_event_St. Patrick's Day,0.9800450645219916
+category_Intro to Digital Art,0.9241617277517091
+target_event_New Year,0.7757320031709761
+category_Art Therapy,0.761080111975731
+category_Fashion,0.6739941485535635
+category_Flowers,0.6455602890951212
+category_Anatomy,0.6420340167450207
+target_event_Easter,0.4895295345000374
+category_Sports,0.44756997294816486
+target_audience_Kids 6-9,0.4278231899734906
+category_Cats,0.4051133996883586
+target_event_Chinese New Year,0.381438192040707
+target_event_Father's Day,0.29578304996391247
+target_event_Mother's Day,0.24551792630564812
+target_audience_Kids 8-12,0.20094670412505972
+art_style_Realistic,0.14373301153668971
+target_age_group_2-6,0.12122490159447968
+target_event_Back to School,0.06876086771750752
+has_video,0.0

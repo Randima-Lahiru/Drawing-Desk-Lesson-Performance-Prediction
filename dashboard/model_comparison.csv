@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,Best Parameters
+Gradient Boosting,781.7697323466197,947.4409822664617,0.5308704310783573,"{""model__learning_rate"": 0.05, ""model__max_depth"": 2, ""model__n_estimators"": 300}"
+XGBoost,807.2113037109375,972.1726684570312,0.5060586333274841,"{""model__colsample_bytree"": 0.8, ""model__learning_rate"": 0.05, ""model__max_depth"": 3, ""model__n_estimators"": 250, ""model__subsample"": 0.8}"
+Random Forest,817.7224120510389,975.3756196995447,0.5027986882685532,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}"
+Extra Trees (New Algorithm),845.9130593607306,1024.2174851384436,0.45175731537893316,"{""model__max_depth"": null, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 1, ""model__n_estimators"": 150}"
