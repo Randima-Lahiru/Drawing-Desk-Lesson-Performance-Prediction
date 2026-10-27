@@ -6,7 +6,7 @@ This MSc machine learning project predicts the expected number of lesson complet
 
 Four regression models are compared:
 
-1. **Extra Trees Regressor** — selected as the new algorithm for the assignment
+1. Extra Trees Regressor
 2. Random Forest Regressor
 3. XGBoost Regressor
 4. Gradient Boosting Regressor
